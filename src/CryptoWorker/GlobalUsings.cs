@@ -1,0 +1,12 @@
+﻿global using CryptoWorker.Application;
+global using CryptoWorker.Domain.Entities;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Options;
+global using Polly;
+global using System;
+global using System.ComponentModel.DataAnnotations;
+global using System.Diagnostics;
+global using System.Globalization;
+global using System.Net.Http.Json;
+global using System.Text.Json;
+global using System.Text.Json.Serialization;
